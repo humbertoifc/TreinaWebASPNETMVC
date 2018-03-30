@@ -11,7 +11,6 @@ namespace TreinaWeb.ASPNETMVC.Web.Controllers
         public ActionResult Index()
         {
             return View();
-            /*babado*/
         }
 
         public ActionResult About()
